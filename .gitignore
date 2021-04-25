@@ -1,0 +1,7 @@
+*/obj/*
+*/bin/*
+*/.vs/*
+*.vs/*
+coverage.xml
+CodeCoverage/*
+*/coverage.opencover.xml
